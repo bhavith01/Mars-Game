@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/3d models/bedAndPillow (1).fbx
+    - Assets/3d models/bedAndPillow (1).fbx.meta
+    - Assets/3d models/mars playground104 (1).fbx
+    - Assets/3d models/mars playground104 (1).fbx.meta
+    - Assets/3d models/marslander 1.fbx
+    - Assets/3d models/marslander 1.fbx.meta
+    - Assets/3d models/marslander.fbx
+    - Assets/3d models/marslander.fbx.meta
+    - Assets/3d models/stone1.fbx
+    - Assets/3d models/stone1.fbx.meta
+    - Assets/3d models/stone2.fbx
+    - Assets/3d models/stone2.fbx.meta
+    - Assets/3d models/stone3.fbx
+    - Assets/3d models/stone3.fbx.meta
+    - Assets/3d models/stone4.fbx
+    - Assets/3d models/stone4.fbx.meta
+    - Assets/3d models/stone5.fbx
+    - Assets/3d models/stone5.fbx.meta
+    - Assets/Meterials/360329__inspectorj__camera-shutter-fast-a.wav
+    - Assets/Meterials/360329__inspectorj__camera-shutter-fast-a.wav.meta
+    - Assets/Meterials/Mars land t.meta
+    - Assets/Meterials/Mars land t/Material_Base_Color.png
+    - Assets/Meterials/Mars land t/Material_Base_Color.png.meta
+    - Assets/Meterials/Mars land t/Material_Height.png
+    - Assets/Meterials/Mars land t/Material_Height.png.meta
+    - Assets/Meterials/Mars land t/Material_Metallic.png
+    - Assets/Meterials/Mars land t/Material_Metallic.png.meta
+    - Assets/Meterials/Mars land t/Material_Normal.png
+    - Assets/Meterials/Mars land t/Material_Normal.png.meta
+    - Assets/Meterials/Mars land t/Material_Normal_OpenGL.png
+    - Assets/Meterials/Mars land t/Material_Normal_OpenGL.png.meta
+    - Assets/Meterials/Mars land t/Material_Roughness.png
+    - Assets/Meterials/Mars land t/Material_Roughness.png.meta
+    - Assets/Meterials/Mision mar1.mp3
+    - Assets/Meterials/Mision mar1.mp3.meta
+    - Assets/Meterials/New Material 4.mat
+    - Assets/Meterials/Panel.controller
+    - Assets/Meterials/Panel.controller.meta
+    - Assets/Meterials/Text (TMP).controller
+    - Assets/Meterials/Text (TMP).controller.meta
+    - Assets/Meterials/bed.meta
+    - Assets/Meterials/bed/Material.001_Base_Color.png
+    - Assets/Meterials/bed/Material.001_Base_Color.png.meta
+    - Assets/Meterials/bed/Material.001_Height.png
+    - Assets/Meterials/bed/Material.001_Height.png.meta
+    - Assets/Meterials/bed/Material.001_Metallic.png
+    - Assets/Meterials/bed/Material.001_Metallic.png.meta
+    - Assets/Meterials/bed/Material.001_Normal.png
+    - Assets/Meterials/bed/Material.001_Normal.png.meta
+    - Assets/Meterials/bed/Material.001_Roughness.png
+    - Assets/Meterials/bed/Material.001_Roughness.png.meta
+    - Assets/Meterials/bed/Material.002_Base_Color.png
+    - Assets/Meterials/bed/Material.002_Base_Color.png.meta
+    - Assets/Meterials/bed/Material.002_Height.png
+    - Assets/Meterials/bed/Material.002_Height.png.meta
+    - Assets/Meterials/bed/Material.002_Metallic.png
+    - Assets/Meterials/bed/Material.002_Metallic.png.meta
+    - Assets/Meterials/bed/Material.002_Normal.png
+    - Assets/Meterials/bed/Material.002_Normal.png.meta
+    - Assets/Meterials/bed/Material.002_Roughness.png
+    - Assets/Meterials/bed/Material.002_Roughness.png.meta
+    - Assets/Meterials/bed/Material_Base_Color.png
+    - Assets/Meterials/bed/Material_Base_Color.png.meta
+    - Assets/Meterials/bed/Material_Height.png
+    - Assets/Meterials/bed/Material_Height.png.meta
+    - Assets/Meterials/bed/Material_Metallic.png
+    - Assets/Meterials/bed/Material_Metallic.png.meta
+    - Assets/Meterials/bed/Material_Normal.png
+    - Assets/Meterials/bed/Material_Normal.png.meta
+    - Assets/Meterials/bed/Material_Normal_OpenGL.png
+    - Assets/Meterials/bed/Material_Normal_OpenGL.png.meta
+    - Assets/Meterials/bed/Material_Roughness.png
+    - Assets/Meterials/bed/Material_Roughness.png.meta
+    - Assets/Meterials/bed/New Material 1.mat
+    - Assets/Meterials/bed/New Material 1.mat.meta
+    - Assets/Meterials/bed/New Material.mat
+    - Assets/Meterials/bed/New Material.mat.meta
+    - Assets/Meterials/intro.anim
+    - Assets/Meterials/intro.anim.meta
+    - Assets/Meterials/presentDay.anim
+    - Assets/Meterials/presentDay.anim.meta
+    - Assets/Meterials/surface.mat
+    - Assets/Meterials/surface.mat.meta
+    - Assets/Scenes/Anish/0001-0150.mp4
+    - Assets/Scenes/Anish/0001-0150.mp4.meta
+    - Assets/Scenes/Anish/Anish.unity
+    - Assets/Scenes/Anish/Canvas.controller
+    - Assets/Scenes/Anish/Canvas.controller.meta
+    - Assets/Scenes/Anish/End.unity
+    - Assets/Scenes/Anish/Image 1.controller
+    - Assets/Scenes/Anish/Image 1.controller.meta
+    - Assets/Scenes/Anish/Image.controller
+    - Assets/Scenes/Anish/Image.controller.meta
+    - Assets/Scenes/Anish/New Render Texture.renderTexture
+    - Assets/Scenes/Anish/New Render Texture.renderTexture.meta
+    - Assets/Scenes/Anish/Panel 1.controller
+    - Assets/Scenes/Anish/Panel 1.controller.meta
+    - Assets/Scenes/Anish/Panel.controller
+    - Assets/Scenes/Anish/Panel.controller.meta
+    - Assets/Scenes/Anish/SampleScene (2).unity
+    - Assets/Scenes/Anish/SampleScene (2).unity.meta
+    - Assets/Scenes/Anish/Start.unity
+    - Assets/Scenes/Anish/Text (TMP).controller
+    - Assets/Scenes/Anish/Text (TMP).controller.meta
+    - Assets/Scenes/Anish/endCanva.anim
+    - Assets/Scenes/Anish/endCanva.anim.meta
+    - Assets/Scenes/Anish/intro.unity
+    - Assets/Scenes/Anish/intro.unity.meta
+    - Assets/Scenes/Anish/newsPaper.anim
+    - Assets/Scenes/Anish/newsPaper.anim.meta
+    - Assets/Scenes/Anish/presentDay.anim
+    - Assets/Scenes/Anish/presentDay.anim.meta
+    - Assets/Scenes/SampleScene 1.unity
+    - Assets/Scenes/SampleScene 1.unity.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/Stone.unity
+    - Assets/Scenes/Stone.unity.meta
+    - Assets/Scripts/ContRover.cs
+    - Assets/Scripts/ContRover1.cs
+    - Assets/Scripts/ContRover1.cs.meta
+    - Assets/Scripts/OxygenMonitor.cs
+    - Assets/Scripts/ParameterHandler.cs
+    - Assets/Scripts/Scenes.cs
+    - Assets/Scripts/StoneCreat.cs
+    - Assets/Scripts/StonePicker.cs
+    - Assets/Scripts/Wheel1.cs
+    - Assets/Scripts/WindmillTurn.cs
+    - Assets/Scripts/revive.cs
+    - Assets/Scripts/revive.cs.meta
+    - Assets/Scripts/tyre.cs
+    - Assets/Scripts/tyre.cs.meta
+    - Assets/Scripts/tyreRight.cs
+    - Assets/Scripts/tyreRight.cs.meta
+    - Assets/Scripts/vidController.cs
+    - Assets/Scripts/vidController.cs.meta
+    - Assets/Scripts/windMill.cs
+    - Assets/Scripts/windMill.cs.meta
+    - Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs
+    - Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs
+    - Assets/Standard Assets/Vehicles/Car/Materials/ParticleSmokeWhite.mat
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/InputManager.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
